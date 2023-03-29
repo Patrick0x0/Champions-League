@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\bin\Debug\net6.0\Projeto Liga.exe
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\bin\Debug\net6.0\Projeto Liga.deps.json
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\bin\Debug\net6.0\Projeto Liga.runtimeconfig.json
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\bin\Debug\net6.0\Projeto Liga.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\bin\Debug\net6.0\Projeto Liga.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\refint\Projeto Liga.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\Projeto Liga.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\Programação 2º ano\Projeto Liga\obj\Debug\net6.0\ref\Projeto Liga.dll
